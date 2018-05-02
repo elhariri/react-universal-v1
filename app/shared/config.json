@@ -1,0 +1,89 @@
+{
+    "header" : [
+        {
+            "name" : "DAR",
+            "icon" : "school",
+            "path" : "Home"
+        },
+        {
+            "name" : "COURS",
+            "icon" : "book",
+            "path" : "Courses"
+        },
+        {
+            "name" : "7NA",
+            "icon" : "groupe",
+            "path" : "AboutUs"
+        },
+        {
+            "name" : "logo",
+            "icon" : "",
+            "path" : "Home"
+        },
+        {
+            "name" : "LTA7E9",
+            "icon" : "sign",
+            "path" : "Help"
+        },
+        {
+            "name" : "M9eyed",
+            "icon" : "school",
+            "path" : "SignIn"
+        },
+        {
+            "name" : "T9eyed",
+            "icon" : "school",
+            "path" : "signUp"
+        }
+        
+    ],
+    "how" : [
+        {
+            "image" : "choose",
+            "text" : "Khtar l cour li bghiti t3elem lih"
+        },
+        {
+            "image" : "read",
+            "text" : "Tferej f l videoyat o 9ra lasse9 li m3aha"
+        },
+        {
+            "image" : "cool",
+            "text" : "9ra b chwia 3lik b darija o fabour"
+        }
+    ],
+    "why" : [
+        {
+            "image" : "developer",
+            "text" : "Kat3ref tdevelopi ola tdesigni les sites ola les app mobiles"
+        },
+        {
+            "image" : "translate",
+            "text" : "Kat3ref l chel7a o tbghi terjem dorous li 7atin bach t3em l fa2ida"
+        },
+        {
+            "image" : "marketing",
+            "text" : "kat3ref l marketing o tbghi t3awen had l mobadara te3ref o tnje7"
+        },
+        {
+            "image" : "admin",
+            "text" : "tbghi tekhdem m3ana f tassyir dial l moubadara"
+        },
+        {
+            "image" : "donate",
+            "text" : "tbghi tbere3 b l flous l moubadara bach nweliw ndirou videoyat 7sen"
+        },
+        {
+            "image" : "other",
+            "text" : "bghiti t3awen f chi èaja khra mre7ba :)"
+        }
+    ],
+    "coursestest" : [
+        {
+            "image" : "HTML & CSS",
+            "title" : "T3elem l HTML o CSS fnhar wa7ed",
+            "duration" : "10h",
+            "difficulty" : "sahel mahel",
+            "url" : "8-AqCaavUfQ"
+        }
+    ]
+}
